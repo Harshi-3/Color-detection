@@ -13,13 +13,13 @@ git clone https://github.com/Harshi-3/Color-detection.git
 cd Color-detection
 pip install -r requirements.txt
 
-🔧 Implementation Details
+## 🔧 Implementation Details
 
 OpenCV: for image loading and display
 Pandas + Numpy: for color data and numeric processing
 CSV Dataset: maps RGB values to color names
 
-🛠️ How It Works
+## 🛠️ How It Works
 
 Load image and CSV dataset
 Capture pixel color on double-click
