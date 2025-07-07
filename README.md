@@ -7,12 +7,6 @@ A Python-based computer vision tool to detect and name colors in an image using 
 - Uses Euclidean distance to match nearest known color.
 - Handles text contrast for light and dark backgrounds.
 
-## 🚀 Installation 
-```bash
-git clone https://github.com/Harshi-3/Color-detection.git
-cd Color-detection
-pip install -r requirements.txt
-
 ## 🔧 Implementation Details
 
 OpenCV: for image loading and display
@@ -25,3 +19,10 @@ Load image and CSV dataset
 Capture pixel color on double-click
 Compute nearest color via Euclidean distance
 Display colored rectangle with the color name and RGB code
+
+## 🚀 Installation 
+```bash
+git clone https://github.com/Harshi-3/Color-detection.git
+cd Color-detection
+pip install -r requirements.txt
+
